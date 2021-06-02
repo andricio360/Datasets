@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello worlds
+=======
+Hola este es un archivo de texto
+>>>>>>> aa7ad5e3b8eaeb3ebb8366018c38c46765ee3535
